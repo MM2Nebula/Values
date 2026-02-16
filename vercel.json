@@ -1,0 +1,9 @@
+{
+  "outputDirectory": ".",
+  "routes": [
+    {
+      "src": "/mm2values.json",
+      "dest": "/mm2values.json"
+    }
+  ]
+}
